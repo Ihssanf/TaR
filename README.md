@@ -60,7 +60,19 @@ Développeur 3 : ccc ddd - Salaire : 60000.0
 
 
 
-https://github.com/user-attachments/assets/f7e25604-d6d7-4319-bde8-13f0ea34f7ed
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/6d5c871f-fc95-432b-9c7c-21b28f8bbdf7
+
+
+
+
+
 
 
 
