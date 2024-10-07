@@ -22,11 +22,8 @@ Le projet est structuré en plusieurs packages, chacun ayant un rôle spécifiqu
 - *MySQL* installé et en cours d'exécution.
 - Le driver JDBC pour MySQL (par exemple, `mysql-connector-java.jar`) doit être ajouté au classpath du projet.
 
-## Installation et configuration
-
-1. **Clonez ou téléchargez** ce dépôt.
    
-2. **Base de données** :
+ **Base de données** :
    - Créez une base de données MySQL nommée `entreprise` :
      ```sql
      CREATE DATABASE entreprise;
@@ -36,12 +33,9 @@ Le projet est structuré en plusieurs packages, chacun ayant un rôle spécifiqu
      jdbc.url=jdbc:mysql://localhost:3306/entreprise
      jdbc.username=root
      jdbc.password=
-     jdbc.driver=com.mysql.cj.jdbc.Driver
+     jdbc.driver=com.mysql.jdbc.Driver
      ```
 
-3. **Ajoutez le driver MySQL** à votre classpath :
-   - Téléchargez le fichier `mysql-connector-java.jar` depuis le [site officiel de MySQL](https://dev.mysql.com/downloads/connector/j/).
-   - Ajoutez-le à votre projet.
 
 ## Utilisation
 
