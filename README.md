@@ -48,14 +48,6 @@ Le projet est structuré en plusieurs packages, chacun ayant un rôle spécifiqu
    - Mise à jour des relations hiérarchiques entre les employés.
    - Affichage des informations sur le directeur général, les managers et les développeurs, ainsi que leurs salaires respectifs.
 
-## Exemple d'exécution
-
-```plaintext
-Directeur général : ddd eee - Salaire : 100000.0
-Manager : bbb ccc - Salaire : 80000.0
-Développeur 1 : ihssane elmaizi - Salaire : 50000.0
-Développeur 2 : aaa bbb - Salaire : 60000.0
-Développeur 3 : ccc ddd - Salaire : 60000.0
 
 
 
@@ -65,12 +57,7 @@ Développeur 3 : ccc ddd - Salaire : 60000.0
 
 
 
-
-
-https://github.com/user-attachments/assets/6d5c871f-fc95-432b-9c7c-21b28f8bbdf7
-
-
-
+https://github.com/user-attachments/assets/a2881ce0-7b1e-430d-b863-eb7daf9af03a
 
 
 
